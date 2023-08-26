@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hello friends
-=======
+
 hai friends
->>>>>>> feature
+
