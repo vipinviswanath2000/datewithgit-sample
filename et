@@ -1,0 +1,61 @@
+* [33mcommit c8496332312ef5d5bac5ca694db64decafc12659[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[31m|[m Date:   Sat Aug 26 20:10:41 2023 +0530
+[31m|[m 
+[31m|[m     index file modified
+[31m|[m   
+[31m|[m * [33mcommit 1492f65c679ff37a88f1cfef2c019f42e164e2f0[m[33m ([m[1;32mfeature[m[33m)[m
+[31m|[m[31m/[m  Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[31m|[m   Date:   Sat Aug 26 19:52:22 2023 +0530
+[31m|[m   
+[31m|[m       hai file edited
+[31m|[m   
+*   [33mcommit e68cc8fd745d04accc640702d52eaae3e0934a93[m
+[33m|[m[34m\[m  Merge: a2a91f0 eb27152
+[33m|[m [34m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[33m|[m [34m|[m Date:   Sat Aug 26 19:43:36 2023 +0530
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     editedhtml file
+[33m|[m [34m|[m 
+[33m|[m * [33mcommit eb27152cd1a04b005675723f8b8916e78f7a5885[m
+[33m|[m [34m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[33m|[m [34m|[m Date:   Fri Aug 25 21:29:07 2023 +0530
+[33m|[m [34m|[m 
+[33m|[m [34m|[m     added content to hai
+[33m|[m [34m|[m 
+* [34m|[m [33mcommit a2a91f04982eeb20e791a77749fff6e9ccd0a9d4[m
+[34m|[m[34m/[m  Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[34m|[m   Date:   Sat Aug 26 19:39:28 2023 +0530
+[34m|[m   
+[34m|[m       edited hai
+[34m|[m   
+[34m|[m * [33mcommit 835061175922fddd07af3ce6c2e239043e96b20a[m[33m ([m[1;35mrefs/stash[m[33m)[m
+[34m|[m[34m/[m[36m|[m Merge: 6803507 94d199f
+[34m|[m [36m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[34m|[m [36m|[m Date:   Sat Aug 26 19:06:16 2023 +0530
+[34m|[m [36m|[m 
+[34m|[m [36m|[m     WIP on master: 6803507 second file created
+[34m|[m [36m|[m 
+[34m|[m * [33mcommit 94d199f3e6915bd0117993f5fa02a63832247c53[m
+[34m|[m[34m/[m  Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[34m|[m   Date:   Sat Aug 26 19:06:16 2023 +0530
+[34m|[m   
+[34m|[m       index on master: 6803507 second file created
+[34m|[m 
+* [33mcommit 680350758f9f0db7480d4132ba0005f794ba685d[m
+[36m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[36m|[m Date:   Fri Aug 25 21:22:53 2023 +0530
+[36m|[m 
+[36m|[m     second file created
+[36m|[m 
+* [33mcommit cd2928ab30385e9e056e9f42ecf984aabe122ab0[m
+[36m|[m Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+[36m|[m Date:   Fri Aug 25 20:53:56 2023 +0530
+[36m|[m 
+[36m|[m     i added some message
+[36m|[m 
+* [33mcommit 4aa2d0248926eff6ff5a26929c83dd0c11748a8f[m
+  Author: Vipin Viswanath <vipinviswanath425@gmail.com>
+  Date:   Fri Aug 25 20:41:53 2023 +0530
+  
+      Initial Commit
